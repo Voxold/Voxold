@@ -3,7 +3,7 @@
 <h3 align="center">I'm Bilal, fullstack software engineer from Morocco</h3>
 
 
-<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Ddeveloper%2Bcartoon&psig=AOvVaw36q1zqx6BncGQYFFFsbhGF&ust=1704479225599000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCNCVgoiuxIMDFQAAAAAdAAAAABAJ](https://dribbble.com/shots/6623730-Character-Design-personal-Portrait-by-Abid-Rozdar)"/>
+<img width="100%" src="https://img.freepik.com/premium-photo/student-doing-coding-his-computer-setup_939033-14323.jpg" />
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Voxold?tab=repositories](https://github.com/Voxold?tab=repositories)
