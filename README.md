@@ -5,6 +5,7 @@
 
 <img width="100%" src="https://img.freepik.com/premium-photo/student-doing-coding-his-computer-setup_939033-14323.jpg" />
 
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Voxold?tab=repositories](https://github.com/Voxold?tab=repositories)
 
