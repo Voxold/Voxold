@@ -5,7 +5,7 @@
 
 <img width="100%" src="https://img.freepik.com/premium-photo/student-doing-coding-his-computer-setup_939033-14323.jpg" />
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin,gmail,twitter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin,gmail,twitter&theme=dark)](https://skillicons.dev)
 
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 ![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)
