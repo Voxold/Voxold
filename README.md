@@ -21,26 +21,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js," />
+    <img src="https://skillicons.dev/icons?i=c,python,php,html,css,js,react,nodejs,angular,django" />
   </a>
 </p>
 
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,php" />
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,angular,django" />
-  </a>
-</p>
 
 
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
