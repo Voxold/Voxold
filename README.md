@@ -21,6 +21,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js," />
@@ -33,6 +34,14 @@
     <img src="https://skillicons.dev/icons?i=c,python,php" />
   </a>
 </p>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,node,angular,django" />
+  </a>
+</p>
+
 
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 Reddit 	![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
