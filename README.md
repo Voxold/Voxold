@@ -5,7 +5,7 @@
 
 <img width="100%" src="https://img.freepik.com/premium-photo/student-doing-coding-his-computer-setup_939033-14323.jpg" />
 
-<h2>👉 Ho to reach me :</h2>
+<h3>Ho to reach me :</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -23,6 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+<h3>Languages and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,python,php,html,css,js,react,nodejs,angular,django" />
@@ -30,7 +31,7 @@
 </p>
 
 
-
+<h3>Competitive Programming Profiles</h3>
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
