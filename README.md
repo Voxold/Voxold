@@ -54,3 +54,5 @@ Reddit 	![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-th
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Voxold&layout=compact)
+
