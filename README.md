@@ -56,5 +56,5 @@ Reddit 	![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-th
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Voxold&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Voxold&show_icons=true&theme=radical)
 
