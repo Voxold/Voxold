@@ -2,10 +2,6 @@
 <h1 align="center">Hi👋 I'm Bilal</h1>
 <h3 align="center">Fullstack software engineer from Morocco</h3>
 
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Voxold/StrapDown.js/stargazers/)
-[![GitHub watchers](https://img.shields.io/github/watchers/Voxold/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Voxold/StrapDown.js/watchers/)
-[![GitLab last commit](https://badgen.net/gitlab/last-commit/Voxold/HomelabOS/)](https://gitlab.com/Voxold/HomelabOS/-/commits)
-
 <img width="100%" src="https://img.freepik.com/premium-photo/student-doing-coding-his-computer-setup_939033-14323.jpg" />
 
 <p align="center">
