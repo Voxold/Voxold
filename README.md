@@ -54,7 +54,7 @@
 
 
 <div class="skills">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voxold&layout=compact" width="100px" height="40px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voxold&layout=compact" width="1000px" height="400px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Voxold&show_icons=true&theme=dark"/>
 </div>
 
