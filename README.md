@@ -21,7 +21,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<h3>Languages and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,python,php,html,css,js,react,nodejs,angular,django" />
