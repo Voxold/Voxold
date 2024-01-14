@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Voxold?tab=repositories](https://github.com/Voxold?tab=repositories)
+- 👨‍💻 <h6>All of my projects are available at <a href="https://github.com/Voxold?tab=repositories">Repositories</a> </h6>
 
 - 💬 Ask me about **HTML - CSS - JS - Python - Django**
 
