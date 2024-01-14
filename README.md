@@ -54,10 +54,11 @@
 
 
 <div class="skills">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Voxold&layout=compact)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Voxold&show_icons=true&theme=dark)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voxold&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Voxold&show_icons=true&theme=dark"/>
 </div>
 
 
 
-
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Voxold&layout=compact)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Voxold&show_icons=true&theme=dark)
