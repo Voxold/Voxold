@@ -5,7 +5,7 @@
 
 <img width="100%" src="https://img.freepik.com/premium-photo/student-doing-coding-his-computer-setup_939033-14323.jpg" />
 
-<h3>Ho to reach me :</h3>
+<h3>HOW TO REACH ME :</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
