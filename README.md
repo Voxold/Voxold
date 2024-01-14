@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi👋 I'm Bilal</h1>
-<h3 align="center">**Fullstack software engineer from Morocco**</h3>
+<h3 align="center">Fullstack software engineer from Morocco</h3>
 
 <img width="100%" src="https://img.freepik.com/premium-photo/student-doing-coding-his-computer-setup_939033-14323.jpg" />
 
