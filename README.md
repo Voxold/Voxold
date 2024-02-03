@@ -4,6 +4,11 @@
 
 <img width="100%" src="https://img.freepik.com/premium-photo/student-doing-coding-his-computer-setup_939033-14323.jpg" />
 
+- 👨‍💻 **All of my projects are available at** <a href="https://github.com/Voxold?tab=repositories">Repositories</a>
+
+- 💬 Ask me about **HTML - CSS - JS - Python - Django**
+
+<h3 align="left">Connect with me:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <a href='https://www.linkedin.com/in/voxold/'><img src="https://skillicons.dev/icons?i=linkedin" /></a>
@@ -12,11 +17,6 @@
   </a>
 </p>
 
-- 👨‍💻 **All of my projects are available at** <a href="https://github.com/Voxold?tab=repositories">Repositories</a>
-
-- 💬 Ask me about **HTML - CSS - JS - Python - Django**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
