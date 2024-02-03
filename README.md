@@ -8,7 +8,7 @@
   <a href="https://skillicons.dev">
     <a href='https://www.linkedin.com/in/voxold/'><img src="https://skillicons.dev/icons?i=linkedin" /></a>
     <a href='https://twitter.com/bilal_ajaha'><img src="https://skillicons.dev/icons?i=twitter" /></a>
-    <a href='bilalajaha@gmail.com'><img src="https://skillicons.dev/icons?i=gmail"/></a>
+    <a href="mailto:bilalajaha@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
   </a>
 </p>
 
