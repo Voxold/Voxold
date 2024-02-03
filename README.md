@@ -6,7 +6,7 @@
 
 - 👨‍💻 **All of my projects are available at** <a href="https://github.com/Voxold?tab=repositories">Repositories</a>
 
-- 💬 Ask me about **HTML - CSS - JS - Python - Django**
+- 💬 Ask me about **C - HTML - CSS - JS - Python - Django - PHP - Laravel - React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
