@@ -53,7 +53,7 @@
 <p align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voxold&layout=compact" width="400px" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Voxold&show_icons=true&theme=dark" width="350px" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Voxold&show_icons=true&theme=dark" width="350px" height="200px"/>
 
 </p>
 
