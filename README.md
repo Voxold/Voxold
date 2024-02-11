@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi👋 I'm Bilal</h1>
 <h3 align="center">Fullstack software engineer from Morocco</h3>
-<img src='C:\Users\bilal\OneDrive\Pictures\Screenshots\Screenshot 2024-02-11 164937.png'>
+<img src='https://drive.google.com/file/d/15nfb3INYKGmD3jpBc8HtljKPueNGkRdP/view?usp=drive_link'>
 
 
 
