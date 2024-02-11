@@ -2,7 +2,7 @@
 <h1 align="center">Hi👋 I'm Bilal</h1>
 <h3 align="center">Fullstack software engineer from Morocco</h3>
 
-<img src="https://github.com/Voxold/Voxold/issues/1#issue-2129048657">
+https://github.com/Voxold/Voxold/issues/2#issue-2129049839
 
 
 
