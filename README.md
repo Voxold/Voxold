@@ -24,7 +24,19 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,php,html,css,js,react,nodejs,angular,django" />
+    <img src="https://skillicons.dev/icons?i=c,python,php,js,react,nodejs,angular,django,flask,git,linux,mysql" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,ts" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender,ai,ps,figma,xd" />
   </a>
 </p>
 
