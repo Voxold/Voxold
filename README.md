@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi👋 I'm Bilal</h1>
 <h3 align="center">Fullstack software engineer from Morocco</h3>
-<img src='https://drive.google.com/drive/folders/1PT1J1UQckfMKYylUdWtASOPHb38CNn9A'>
+
+<img src="https://github.com/Voxold/Voxold/issues/1#issue-2129048657">
 
 
 
