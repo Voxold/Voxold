@@ -24,21 +24,16 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,php,js,react,nodejs,angular,django,flask,git,linux,mysql" />
+    <img src="https://skillicons.dev/icons?i=c,python,php,js,react,nodejs,angular,django,flask,mysql,linux,git" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,ts" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,ts,blender,ai,ps,figma,xd" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,ai,ps,figma,xd" />
-  </a>
-</p>
 
 <h3>Competitive Programming Profiles:</h3>
 
