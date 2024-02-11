@@ -2,7 +2,8 @@
 <h1 align="center">Hi👋 I'm Bilal</h1>
 <h3 align="center">Fullstack software engineer from Morocco</h3>
 
-![Uploading image.png…]()
+![Uploading Screenshot 2024-02-11 164937.png…]()
+
 
 
 - 👨‍💻 **All of my projects are available at** <a href="https://github.com/Voxold?tab=repositories">Repositories</a>
