@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **C - HTML - CSS - JS - Python - Django - PHP - Laravel - React**
 
-- Fun fact **i am funny**
+- 😄 Fun fact **i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
