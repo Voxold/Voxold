@@ -55,23 +55,10 @@
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voxold&layout=compact&theme=tokyonight" width="400px" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Voxold&show_icons=true&theme=ambient_gradient" width="350px" height="200px"/>
 </p>
-
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Voxold&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Voxold&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Voxold&show_icons=true" />
-</picture>
-
 
 
