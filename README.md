@@ -2,7 +2,7 @@
 <h1 align="center">Hi👋 I'm Bilal</h1>
 <h3 align="center">Fullstack software engineer from Morocco</h3>
 
-<img src='https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg'  width="100%" />
+<img src='https://codeandhack.com/wp-content/uploads/2023/09/Debug-Your-Code-Efficiently.jpg'  width="100%" height='100px' />
 
 - 👨‍💻 **All of my projects are available at** <a href="https://github.com/Voxold?tab=repositories">My Repositories</a>
 
