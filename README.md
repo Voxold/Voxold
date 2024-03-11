@@ -61,3 +61,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Voxold&show_icons=true&theme=ambient_gradient" width="350px" height="200px"/>
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=Voxold&show_icons=true&theme=ambient_gradient" />
