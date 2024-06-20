@@ -22,7 +22,7 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages :</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -30,9 +30,17 @@
   </a>
 </p>
 
+<h3 align="left">Framework :</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,angular,laravel,django,flask,fastapi,mysql,postgreSQL,MongoDB,linux,git" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,angular,laravel,django,flask,fastapi" />
+  </a>
+</p>
+
+<h3 align="left">Database :</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgesql,mongodb" />
   </a>
 </p>
 
