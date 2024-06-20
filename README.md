@@ -22,31 +22,31 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages :</h3>
+<h3 align="left">Languages | Frameworks | Databases | Tools :</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,js,php" />
+    <img src="https://skillicons.dev/icons?i=c,python,js,php,ts,react,nodejs,angular,laravel,django,flask,fastapi" />
   </a>
 </p>
 
-<h3 align="left">Framework :</h3>
+<h3 align="left"> :</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,angular,laravel,django,flask,fastapi" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,linux,git,docker" />
   </a>
 </p>
 
-<h3 align="left">Database :</h3>
+<h3 align="left"> :</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=linux,git,docker,postman,kubernetes,jenkins,prometheus,api" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,ts,blender,ai,ps,figma,xd" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,blender,ai,ps,figma,xd" />
   </a>
 </p>
 
