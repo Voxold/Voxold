@@ -6,7 +6,7 @@
 
 - 👨‍💻 **All of my projects are available at** <a href="https://github.com/Voxold?tab=repositories">My Repositories</a>
 
-- 💬 Ask me about **C - HTML - CSS - JS - Python - Django - PHP - Laravel - React**
+- 💬 Ask me about **Planning and Requirement Analysis | Defining Requirements | Designing Architecture | Developing Product | Product Testing and Integration | Deployment and Maintenance of Products**
 
 - 😄 Fun fact **i am funny**
 
