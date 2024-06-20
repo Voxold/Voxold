@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi👋 I'm Bilal</h1>
-<h3 align="center">Full-stack Software Engineer from Morocco</h3>
+<h3 align="center">Full-stack Software Engineer</h3>
 
 <img src='https://codeandhack.com/wp-content/uploads/2023/09/Debug-Your-Code-Efficiently.jpg'  width="100%"  />
 
