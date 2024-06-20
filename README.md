@@ -40,7 +40,7 @@
 <h3 align="left">Database :</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgesql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
   </a>
 </p>
 
