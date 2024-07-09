@@ -51,11 +51,6 @@
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 
-
-
-
-## Blog 
-
 <a href='https://medium.com/@bilalajaha' target='_blank' rel="medium">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)<a/>
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
@@ -70,9 +65,9 @@
 ## My Projects
 <table>
     <tr>
-        <th>Frontend Projects 1</th>
-        <th>Backend Projects 2</th>
-        <th>Full-Stack Projects 3</th>
+        <th>Frontend Projects</th>
+        <th>Backend Projects</th>
+        <th>Full-Stack Projects</th>
     </tr>
     <tr>
         <td><a href="https://github.com/Voxold/Photography_Responsive">Photography Responsive</a></td>
