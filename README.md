@@ -22,7 +22,7 @@
 <p align="left">
 </p>
 
-### Languages - Frameworks - Databases - Tools
+<h3>Languages - Frameworks - Databases - Tools</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -43,7 +43,7 @@
 </p>
 
 
-### Competitive Programming Profiles
+<h3>Competitive Programming Profiles</h3>
 
 <a href='https://www.codewars.com/users/Voxold' target='_blank' rel="codewars">![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)<a/>
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
