@@ -10,7 +10,7 @@
 
 - 😄 Fun fact **i am funny**
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me
 <p align="center">
   <a href="https://skillicons.dev">
     <a href='https://www.linkedin.com/in/voxold/'><img src="https://skillicons.dev/icons?i=linkedin" /></a>
@@ -43,7 +43,7 @@
 </p>
 
 
-<h3>Competitive Programming Profiles:</h3>
+## Competitive Programming Profiles
 
 <a href='https://www.codewars.com/users/Voxold' target='_blank' rel="codewars">![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)<a/>
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
@@ -54,7 +54,7 @@
 
 
 
-<h3>Blog :</h3>
+## Blog 
 
 <a href='https://medium.com/@bilalajaha' target='_blank' rel="medium">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)<a/>
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
