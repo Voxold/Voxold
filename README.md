@@ -6,7 +6,7 @@
 
 - 👨‍💻 **All of my projects are available at** <a href="https://github.com/Voxold?tab=repositories">My Repositories</a>
 
-- 💬 Ask me about **Planning and Requirement Analysis | Defining Requirements | Designing Architecture | Developing Product | Product Testing and Integration | Deployment and Maintenance of Products**
+- 💬 Ask me about **Planning and Requirement Analysis | Defining Requirements | Designing Architecture | Developing Product | Product Testing and Integration | Deployment and ## ## Maintenance of Products**
 
 - 😄 Fun fact **i am funny**
 
@@ -70,9 +70,9 @@
 ## My Projects
 <table>
     <tr>
-        <th>Header 1</th>
-        <th>Header 2</th>
-        <th>Header 3</th>
+        <th>Frontend Projects 1</th>
+        <th>Backend Projects 2</th>
+        <th>Full-Stack Projects 3</th>
     </tr>
     <tr>
         <td></td>
