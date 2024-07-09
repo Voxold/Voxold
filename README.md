@@ -10,7 +10,7 @@
 
 - 😄 Fun fact **i am funny**
 
-## Connect with me
+### Connect with me
 <p align="center">
   <a href="https://skillicons.dev">
     <a href='https://www.linkedin.com/in/voxold/'><img src="https://skillicons.dev/icons?i=linkedin" /></a>
@@ -22,7 +22,7 @@
 <p align="left">
 </p>
 
-## Languages | Frameworks | Databases | Tools
+### Languages - Frameworks - Databases - Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -43,7 +43,7 @@
 </p>
 
 
-## Competitive Programming Profiles
+### Competitive Programming Profiles
 
 <a href='https://www.codewars.com/users/Voxold' target='_blank' rel="codewars">![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)<a/>
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
@@ -62,7 +62,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Voxold&show_icons=true&theme=ambient_gradient" width="350px" height="200px"/>
 </p>
 
-## My Projects
+### My Projects
 <table>
     <tr>
         <th>Frontend Projects</th>
