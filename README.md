@@ -82,12 +82,12 @@
     <tr>
         <td><a href="https://github.com/Voxold/Photography_Responsive">Cars Responsive</a></td>
         <td></td>
-        <td><a href="https://github.com/Voxold/Contacts-List">Contacts-List</a></td>
+        <td><a href="https://github.com/Voxold/Contacts-List">Contacts List</a></td>
     </tr>
     <tr>
         <td><a href="https://github.com/Voxold/Photography_Responsive">PS5 Responsive</a></td>
         <td></td>
-        <td><a href="https://github.com/Voxold/Super-Mario-Clone">Super-Mario-Clone</a></td>
+        <td><a href="https://github.com/Voxold/Super-Mario-Clone">Super Mario Clone</a></td>
     </tr>
     <tr>
         <td><a href="https://github.com/Voxold/Coffee_Website">Coffee Website</a></td>
@@ -100,7 +100,7 @@
         <td></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Voxold/Animals-Slider">Animals-Slider</a></td>
+        <td><a href="https://github.com/Voxold/Animals-Slider">Animals Slider</a></td>
         <td></td>
         <td></td>
     </tr>
