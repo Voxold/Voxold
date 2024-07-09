@@ -22,7 +22,7 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages | Frameworks | Databases | Tools :</h3>
+## Languages | Frameworks | Databases | Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
