@@ -75,37 +75,37 @@
         <th>Full-Stack Projects 3</th>
     </tr>
     <tr>
-        <td><a href="https://github.com/Voxold/Photography_Responsive">Photographie Responsive</a></td>
-        <td><a href="https://github.com/Voxold/Photography_Responsive">Photographie Responsive</a></td>
-        <td><a href="https://github.com/Voxold/Photography_Responsive">Photographie Responsive</a></td>
-    </tr>
-    <tr>
-        <td></td>
+        <td><a href="https://github.com/Voxold/Photography_Responsive">Photography Responsive</a></td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
+        <td><a href="https://github.com/Voxold/Photography_Responsive">Cars Responsive</a></td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
+        <td><a href="https://github.com/Voxold/Photography_Responsive">PS5 Responsive</a></td>
         <td></td>
         <td></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Voxold/Coffee_Website">Coffee Website</a></td>
         <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Voxold/Trading-App-Website">Trading-App Website</a></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Voxold/Animals-Slider">Animals-Slider</a></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Voxold/Photography_Responsive">Mido's Restaurant Website</a></td>
         <td></td>
         <td></td>
     </tr>
