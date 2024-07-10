@@ -75,7 +75,7 @@
         <td><a href="https://github.com/Voxold/Locksmith-Pro">Locksmith Pro</a></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Voxold/Photography_Responsive">Cars Responsive</a></td>
+        <td><a href="https://github.com/Voxold/Responsive-Car-Website">Responsive Car Website</a></td>
         <td></td>
         <td><a href="https://github.com/Voxold/Contacts-List">Contacts List</a></td>
     </tr>
