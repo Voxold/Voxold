@@ -71,7 +71,7 @@
     </tr>
     <tr>
         <td><a href="https://github.com/Voxold/Photography_Responsive">Photography Responsive</a></td>
-        <td></td>
+        <td><a href="https://github.com/Voxold/Blog-Project">Blog Project</a></td>
         <td><a href="https://github.com/Voxold/Locksmith-Pro">Locksmith Pro</a></td>
     </tr>
     <tr>
