@@ -72,12 +72,12 @@
     <tr>
         <td><a href="https://github.com/Voxold/Photography_Responsive">Photography Responsive</a></td>
         <td><a href="https://github.com/Voxold/Blog-Project">Blog Project</a></td>
-        <td><a href="https://github.com/Voxold/Locksmith-Pro">Locksmith Pro</a></td>
+        <td><a href="https://github.com/Voxold/Locksmith-Pro">Locksmith Pro 1.0</a></td>
     </tr>
     <tr>
         <td><a href="https://github.com/Voxold/Responsive-Car-Website">Responsive Car Website</a></td>
         <td></td>
-        <td><a href="https://github.com/Voxold/Contacts-List">Contacts List</a></td>
+        <td><a href="https://github.com/Voxold/Locksmith-Pro">Locksmith Pro 2.0</a></td>
     </tr>
     <tr>
         <td><a href="https://github.com/Voxold/Photography_Responsive">PS5 Responsive</a></td>
@@ -92,7 +92,7 @@
     <tr>
         <td><a href="https://github.com/Voxold/Trading-App-Website">Trading-App Website</a></td>
         <td></td>
-        <td></td>
+        <td><a href="https://github.com/Voxold/Contacts-List">Contacts List</a></td>
     </tr>
     <tr>
         <td><a href="https://github.com/Voxold/Animals-Slider">Animals Slider</a></td>
