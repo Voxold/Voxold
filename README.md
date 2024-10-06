@@ -1,4 +1,30 @@
-
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 18px;
+    text-align: left;
+  }
+  th, td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+  }
+  th {
+    background-color: #f4f4f4;
+  }
+  tr:hover {
+    background-color: #f1f1f1;
+  }
+  a {
+    text-decoration: none;
+    color: #0366d6;
+    font-weight: bold;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+</style>
 <h1 align="center">Hi👋 I'm Bilal</h1>
 <h3 align="center">Full-stack Software Engineer</h3>
 
