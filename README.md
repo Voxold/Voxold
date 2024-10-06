@@ -69,53 +69,41 @@
         <th>Full-Stack Projects</th>
     </tr>
     <tr>
-        <td><a href="https://github.com/Voxold/Photography_Responsive">Photography Responsive</a></td>
-        <td><a href="https://github.com/Voxold/Blog-Project">Blog Project</a></td>
-        <td><a href="https://github.com/Voxold/Locksmith-Pro">Locksmith Pro 1.0</a></td>
+        <td>📸 <a href="https://github.com/Voxold/Photography_Responsive">Photography Responsive</a></td>
+        <td>📝 <a href="https://github.com/Voxold/Blog-Project">Blog Project</a></td>
+        <td>🔒 <a href="https://github.com/Voxold/Locksmith-Pro">Locksmith Pro 1.0</a></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Voxold/Responsive-Car-Website">Responsive Car Website</a></td>
+        <td>🚗 <a href="https://github.com/Voxold/Responsive-Car-Website">Responsive Car Website</a></td>
         <td></td>
-        <td><a href="https://github.com/Voxold/Locksmith-Pro">Locksmith Pro 2.0</a></td>
+        <td>🔑 <a href="https://github.com/Voxold/Locksmith-Pro">Locksmith Pro 2.0</a></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Voxold/Photography_Responsive">PS5 Responsive</a></td>
+        <td>🎮 <a href="https://github.com/Voxold/Photography_Responsive">PS5 Responsive</a></td>
         <td></td>
-        <td><a href="https://github.com/Voxold/Super-Mario-Clone">Super Mario Clone</a></td>
+        <td>🌟 <a href="https://github.com/Voxold/Super-Mario-Clone">Super Mario Clone</a></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Voxold/Coffee_Website">Coffee Website</a></td>
+        <td>☕ <a href="https://github.com/Voxold/Coffee_Website">Coffee Website</a></td>
         <td></td>
-        <td><a href="https://github.com/Voxold/FitCal">FitCal</a></td>
+        <td>🏋️‍♂️ <a href="https://github.com/Voxold/FitCal">FitCal</a></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Voxold/Trading-App-Website">Trading-App Website</a></td>
+        <td>📈 <a href="https://github.com/Voxold/Trading-App-Website">Trading-App Website</a></td>
         <td></td>
-        <td><a href="https://github.com/Voxold/Contacts-List">Contacts List</a></td>
+        <td>📱 <a href="https://github.com/Voxold/Contacts-List">Contacts List</a></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Voxold/Animals-Slider">Animals Slider</a></td>
+        <td>🦓 <a href="https://github.com/Voxold/Animals-Slider">Animals Slider</a></td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Voxold/Photography_Responsive">Mido's Restaurant Website</a></td>
+        <td>🍽️ <a href="https://github.com/Voxold/Photography_Responsive">Mido's Restaurant Website</a></td>
         <td></td>
         <td></td>
     </tr>
 </table>
-
-
-
-| **Frontend Projects**                                                                 | **Backend Projects**                                                     | **Full-Stack Projects**                                                   |
-|---------------------------------------------------------------------------------------|--------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| [Photography Responsive](https://github.com/Voxold/Photography_Responsive)            | [Blog Project](https://github.com/Voxold/Blog-Project)                   | [Locksmith Pro 1.0](https://github.com/Voxold/Locksmith-Pro)              |
-| [Responsive Car Website](https://github.com/Voxold/Responsive-Car-Website)            |                                                                          | [Locksmith Pro 2.0](https://github.com/Voxold/Locksmith-Pro)              |
-| [PS5 Responsive](https://github.com/Voxold/Photography_Responsive)                   |                                                                          | [Super Mario Clone](https://github.com/Voxold/Super-Mario-Clone)          |
-| [Coffee Website](https://github.com/Voxold/Coffee_Website)                            |                                                                          | [FitCal](https://github.com/Voxold/FitCal)                                |
-| [Trading-App Website](https://github.com/Voxold/Trading-App-Website)                  |                                                                          | [Contacts List](https://github.com/Voxold/Contacts-List)                  |
-| [Animals Slider](https://github.com/Voxold/Animals-Slider)                            |                                                                          |                                                                           |
-| [Mido's Restaurant Website](https://github.com/Voxold/Photography_Responsive)         |                                                                          |                                                                           |
 
 
 
