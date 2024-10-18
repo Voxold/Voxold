@@ -75,22 +75,22 @@
     </tr>
     <tr>
         <td>🚗 <a href="https://github.com/Voxold/Responsive-Car-Website">Responsive Car Website</a></td>
-        <td><a href="https://github.com/Voxold/AirBnB_clone">AirBnB clone - The console</a></td>
+        <td>🏨 <a href="https://github.com/Voxold/AirBnB_clone">AirBnB clone - The console</a></td>
         <td>🔑 <a href="https://github.com/Voxold/Locksmith-Pro">Locksmith Pro 2.0</a></td>
     </tr>
     <tr>
         <td>🎮 <a href="https://github.com/Voxold/Photography_Responsive">PS5 Responsive</a></td>
-        <td><a href="https://github.com/Voxold/AirBnB_clone_v2">AirBnB clone - MySQL</a></td>
+        <td>🏚️ <a href="https://github.com/Voxold/AirBnB_clone_v2">AirBnB clone - MySQL</a></td>
         <td>🌟 <a href="https://github.com/Voxold/Super-Mario-Clone">Super Mario Clone</a></td>
     </tr>
     <tr>
         <td>☕ <a href="https://github.com/Voxold/Coffee_Website">Coffee Website</a></td>
-        <td><a href="https://github.com/Voxold/AirBnB_clone_v3">AirBnB clone - RESTful API</a></td>
+        <td>🛌 <a href="https://github.com/Voxold/AirBnB_clone_v3">AirBnB clone - RESTful API</a></td>
         <td>🏋️‍♂️ <a href="https://github.com/Voxold/FitCal">FitCal</a></td>
     </tr>
     <tr>
         <td>📈 <a href="https://github.com/Voxold/Trading-App-Website">Trading-App Website</a></td>
-        <td><a href="https://github.com/Voxold/AirBnB_clone_v4">AirBnB clone - Web dynamic</a></td>
+        <td>🏝️ <a href="https://github.com/Voxold/AirBnB_clone_v4">AirBnB clone - Web dynamic</a></td>
         <td>📱 <a href="https://github.com/Voxold/Contacts-List">Contacts List</a></td>
     </tr>
     <tr>
