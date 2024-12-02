@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋 I'm Bilal</h1>
-<h3 align="center">Crafting Scalable Solutions | Software Engineer & Full-Stack Developer 👨‍💻</h3>
+<h3 align="center">Crafting Scalable Solutions | Software Engineer & Back-end Developer 👨‍💻</h3>
 
 <img src='https://codeandhack.com/wp-content/uploads/2023/09/Debug-Your-Code-Efficiently.jpg'  width="100%"  />
 
