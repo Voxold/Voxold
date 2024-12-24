@@ -101,7 +101,7 @@
     <tr>
         <td>🍽️ <a href="https://github.com/Voxold/Photography_Responsive">Mido's Restaurant Website</a></td>
         <td></td>
-        <td></td>
+        <td><a>MyWay Clone</a></td>
     </tr>
 </table>
 
